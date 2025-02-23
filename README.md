@@ -1,7 +1,19 @@
 # Security Information and Event Management (SIEM) Implementation  
-## Project: Wazuh SIEM Integration with VirusTotal  
 
 ✅ **Developed a comprehensive SIEM system using [Wazuh](https://wazuh.com/), integrated with [VirusTotal](https://www.virustotal.com/) for real-time threat detection and vulnerability monitoring.**  
+
+## Wazuh Dashboard Overview  
+![Wazuh Dashboard](screenshots/wazuh_dashboard.jpeg)
+
+##  Suricata Alerts 
+![System Logs](screenshots/4.jpeg) 
+
+## Logs Captured  
+![System Logs](screenshots/3.jpeg)
+
+## MTIRE & Attack Overview
+![Mire attack](screenshots/6.jpeg)
+
 
 ### 🔹 Key Contributions:  
 - Configured **[Wazuh](https://wazuh.com/)** (Docker) on Ubuntu for log collection, analysis, and intrusion detection.  
