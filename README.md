@@ -11,7 +11,7 @@
 ## Logs Captured  
 ![System Logs](screenshots/3.jpeg)
 
-## MTIRE & Attack Overview
+## MTIRE & ATT&CK Overview
 ![Mire attack](screenshots/6.jpeg)
 
 
